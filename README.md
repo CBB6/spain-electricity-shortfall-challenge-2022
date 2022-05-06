@@ -1,8 +1,8 @@
-SPAIN-ELECTRICITY SHORTFALL
+#SPAIN-ELECTRICITY SHORTFALL
 * In this project we are going to create a project model that is capable of accurately predicting the energy shortfall
 
 
-AUTHORS
+#AUTHORS
 * CBB6
     * Thulani Nyama(project manager, coordinator)
     * Tumishang Monkoe (project manager,content creator)
@@ -10,10 +10,10 @@ AUTHORS
     * Pamela Bokaba (scribe)
     *  Mike (researcher)
 
-PROBLEM STATEMENT
+#PROBLEM STATEMENT
  * Spain has a daily energy shortfall
 
-TOOLS
+#TOOLS
 * TRELLO.com
   * used for setting goals for the project
   * monitoring the progress of the team with Trello boards
