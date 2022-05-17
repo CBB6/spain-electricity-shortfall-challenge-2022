@@ -8,13 +8,14 @@
     * Tumishang Monkoe (project manager,content creator)
     * Ntsikelelo Ngcai (github manager)
     * Pamela Bokaba (scribe)
-    *  Mike (researcher)
+    * Mike Ngwenya(researcher)
+    * Lungelo Ndlovu
 
 # PROBLEM STATEMENT
  * Spain has a daily energy shortfall,there is a requirement to identify patterns in the energy shortfall data to create a regression model that can accurately predict    energy shortfall.
  
 # PROBLEM LANDSCAPE 
-   * A regression model that is applied for the issue in Spain’s energy shortfalls, is identifying patterns, predicting shortfalls, to inform the residents of Spain       when to expect electricity shortfalls.
+   * A regression model that is created for the issue in Spain’s energy shortfalls, is identifying patterns and predicting shortfalls, to inform the residents of Spain       when to expect electricity shortfalls.
  
 
 # TOOLS
