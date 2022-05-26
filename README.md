@@ -30,29 +30,34 @@
  
 
 # TOOLS
-* TRELLO.com
+* Trello
   * used for setting goals for the project
   * monitoring the progress of the team with Trello boards
   *used to assign team members
   *manage the project
+  * sign up to Trello follow the link https://trello.com/signup 
   * GITHUB.com
   * Used for documenting the project on README.md / WIKI
   *The project and to create repositories
   *Used to collaborate
+  * sign up for Github to start colllaborating folllow the link  https://r.search.yahoo.com/_ylt=A0geK.LtfY9i7qwAtZ9XNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMyNDI4MlVTLUNfMQRzZWMDc3I-/RV=2/RE=1653599854/RO=10/RU=https%3a%2f%2fgithub.com%2fsignup/RK=2/RS=1swEjw0QOx81.Fx6D5hPDjF3zyM-
 *  JUPYTER NOTEBOOK
 * Loading Python
 * Import Python libraries
+* You can also log on to jupyter follow the link https://jupyter.org/
      
 *  KAGGLE
     * evaluate the accuracy of the best machine learning model
+    * access the largest datascience community 	https://r.search.yahoo.com/_ylt=A0geKIzVf49iP.YAsRFXNyoA;_ylu=Y29sbwNiZjEEcG9zAzIEdnRpZAMyNDI4MlVTLUNfMQRzZWMDc3I-/RV=2/RE=1653600341/RO=10/RU=https%3a%2f%2fwww.kaggle.com%2f/RK=2/RS=.5YVEy61t0tS6wDTJDFL_bEhrzc-
 * AWS-cloud computing
+	* create an account with AWS https://r.search.yahoo.com/_ylt=AwrJ7FkTgY9iBN4A9SlXNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMyNDI4MlVTLUNfMQRzZWMDc3I-/RV=2/RE=1653600659/RO=10/RU=https%3a%2f%2faws.amazon.com%2fresources%2fcreate-account%2f/RK=2/RS=SVaLjEmsWC5s9MUgsWrDCaJ3kYk-
 
 
 *  INSTALLATIONS
      * Python libraries
 * LOADING THE DATA
-   * loading the train data - df_train.csv
-   * loading the test data - df_test.csv
+   * loading the train data on jupyter notebook - https://github.com/CBB6/spain-electricity-shortfall-challenge-2022/blob/main/df_train.csv
+   * loading the test data on jupiter notebook - https://github.com/CBB6/spain-electricity-shortfall-challenge-2022/blob/main/df_test.csv
 # EXPLORATORY DATA ANAYSIS(EDA)
    * DATA STATISTICS  (In-depth analysis of all the variables in the DataFrame)
       * Checked the first rows of the DataFrame (df)
