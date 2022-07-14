@@ -1,5 +1,4 @@
-# spain-electricity-shortfall-challenge-2022
-# SPAIN-ELECTRICITY SHORTFALL
+# SPAIN-ELECTRICITY SHORTFALL 2022
 * This project is part of the EDSA advanced regression sprint. Explores various regression models to predict Spain's three hourly energy short falls. The project is created and presented by team CBB6.
 
 # TEAM CBB6
